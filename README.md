@@ -34,10 +34,14 @@
 
 ****Success/failure NPC reactions****
 
+
+### 📦 Resource Info
+
 |||
 | --- | --- |
+| **Framework**|ESX|
 |**Code is accessible**|Yes|
 |**Subscription-based**|No|
 |**Lines (approximately)**|~390|
-|**Requirements**|ESX,OX_LIB,OX_TARGET|
-|**Support**|No|
+|**Requirements**|ox_lib,oxmysql,pma-voice|
+|**Support**|Yes|
